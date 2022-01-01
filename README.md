@@ -3,7 +3,7 @@
 ## Objective
 1. La compréhension du problème métier
 2. La compréhension des données
-3. La construction du Data Hub
+3. La Préparation des données
 4. La modélisation
 5. L’évaluation
 6. Le déploiement
